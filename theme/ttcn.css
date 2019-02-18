@@ -1,0 +1,64 @@
+.cm-s-default .cm-quote { color: #090; }
+.cm-s-default .cm-negative { color: #d44; }
+.cm-s-default .cm-positive { color: #292; }
+.cm-s-default .cm-header, .cm-strong { font-weight: bold; }
+.cm-s-default .cm-em { font-style: italic; }
+.cm-s-default .cm-link { text-decoration: underline; }
+.cm-s-default .cm-strikethrough { text-decoration: line-through; }
+.cm-s-default .cm-header { color: #00f; font-weight: bold; }
+
+.cm-s-default .cm-atom { color: #219; }
+.cm-s-default .cm-attribute { color: #00c; }
+.cm-s-default .cm-bracket { color: #997; }
+.cm-s-default .cm-comment { color: #333333; }
+.cm-s-default .cm-def { color: #00f; }
+.cm-s-default .cm-em { font-style: italic; }
+.cm-s-default .cm-error { color: #f00; }
+.cm-s-default .cm-hr { color: #999; }
+.cm-s-default .cm-invalidchar { color: #f00; }
+.cm-s-default .cm-keyword { font-weight:bold; }
+.cm-s-default .cm-link { color: #00c; text-decoration: underline; }
+.cm-s-default .cm-meta { color: #555; }
+.cm-s-default .cm-negative { color: #d44; }
+.cm-s-default .cm-positive { color: #292; }
+.cm-s-default .cm-qualifier { color: #555; }
+.cm-s-default .cm-strikethrough { text-decoration: line-through; }
+.cm-s-default .cm-string { color: #006400; }
+.cm-s-default .cm-string-2 { color: #f50; }
+.cm-s-default .cm-strong { font-weight: bold; }
+.cm-s-default .cm-tag { color: #170; }
+.cm-s-default .cm-variable { color: #8B2252; }
+.cm-s-default .cm-variable-2 { color: #05a; }
+.cm-s-default .cm-variable-3, .cm-s-default .cm-type { color: #085; }
+
+.cm-s-default .cm-invalidchar { color: #f00; }
+
+/* ASN */
+.cm-s-default .cm-accessTypes,
+.cm-s-default .cm-compareTypes { color: #27408B; }
+.cm-s-default .cm-cmipVerbs { color: #8B2252; }
+.cm-s-default .cm-modifier { color:#D2691E; }
+.cm-s-default .cm-status { color:#8B4545; }
+.cm-s-default .cm-storage { color:#A020F0; }
+.cm-s-default .cm-tags { color:#006400; }
+
+/* CFG */
+.cm-s-default .cm-externalCommands { color: #8B4545; font-weight:bold; }
+.cm-s-default .cm-fileNCtrlMaskOptions,
+.cm-s-default .cm-sectionTitle { color: #2E8B57; font-weight:bold; }
+
+/* TTCN */
+.cm-s-default .cm-booleanConsts,
+.cm-s-default .cm-otherConsts,
+.cm-s-default .cm-verdictConsts { color: #006400; }
+.cm-s-default .cm-configOps,
+.cm-s-default .cm-functionOps,
+.cm-s-default .cm-portOps,
+.cm-s-default .cm-sutOps,
+.cm-s-default .cm-timerOps,
+.cm-s-default .cm-verdictOps { color: #0000FF; }
+.cm-s-default .cm-preprocessor,
+.cm-s-default .cm-templateMatch,
+.cm-s-default .cm-ttcn3Macros { color: #27408B; }
+.cm-s-default .cm-types { color: #A52A2A; font-weight:bold; }
+.cm-s-default .cm-visibilityModifiers { font-weight:bold; }

@@ -1,12 +1,17 @@
 /*
-Name: dracula
-Author: Michael Kaminsky (http://github.com/mkaminsky11)
-Original dracula color scheme by Zeno Rocha (https://github.com/zenorocha/dracula-theme)
+
+    Name:       dracula
+    Author:     Michael Kaminsky (http://github.com/mkaminsky11)
+
+    Original dracula color scheme by Zeno Rocha (https://github.com/zenorocha/dracula-theme)
+
 */
+
+
 .cm-s-default.CodeMirror, .cm-s-default .CodeMirror-gutters {
-    background-color: #282a36 !important;
-    color: #f8f8f2 !important;
-    border: none;
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
+  border: none;
 }
 .cm-s-default .CodeMirror-gutters { color: #282a36; }
 .cm-s-default .CodeMirror-cursor { border-left: solid thin #f8f8f0; }

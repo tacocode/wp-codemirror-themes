@@ -1,0 +1,43 @@
+/*
+Copyright (C) 2011 by MarkLogic Corporation
+Author: Mike Brevoort <mike@brevoort.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*/
+.cm-s-default span.cm-keyword { line-height: 1em; font-weight: bold; color: #5A5CAD; }
+.cm-s-default span.cm-atom { color: #6C8CD5; }
+.cm-s-default span.cm-number { color: #164; }
+.cm-s-default span.cm-def { text-decoration:underline; }
+.cm-s-default span.cm-variable { color: black; }
+.cm-s-default span.cm-variable-2 { color:black; }
+.cm-s-default span.cm-variable-3, .cm-s-default span.cm-type { color: black; }
+.cm-s-default span.cm-property {}
+.cm-s-default span.cm-operator {}
+.cm-s-default span.cm-comment { color: #0080FF; font-style: italic; }
+.cm-s-default span.cm-string { color: red; }
+.cm-s-default span.cm-meta { color: yellow; }
+.cm-s-default span.cm-qualifier { color: grey; }
+.cm-s-default span.cm-builtin { color: #7EA656; }
+.cm-s-default span.cm-bracket { color: #cc7; }
+.cm-s-default span.cm-tag { color: #3F7F7F; }
+.cm-s-default span.cm-attribute { color: #7F007F; }
+.cm-s-default span.cm-error { color: #f00; }
+
+.cm-s-default .CodeMirror-activeline-background { background: #e8f2ff; }
+.cm-s-default .CodeMirror-matchingbracket { outline:1px solid grey;color:black !important;background:yellow; }
