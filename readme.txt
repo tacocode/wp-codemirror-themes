@@ -25,7 +25,7 @@ Found a bug? Please use the issue tracker at <https://github.com/tacocode/wp-cod
 
 == Changelog ==
 
-= 0.0.1 =
+= 0.0.2 =
 * Initial version
 
 == Usage ==

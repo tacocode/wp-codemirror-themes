@@ -1,18 +1,25 @@
 <?php
+/*
+Plugin Name: WP CodeMirror Themes
+Plugin URI:  https://github.com/tacocode/wp-codemirror-themes
+Description: Add a custom CodeMirror theme
+Version:     0.0.2
+Author:      TacoCode
+Author URI:  https://github.com/tacocode
+License:     GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wp-codemirror-themes
+Domain Path: /languages
+*/
+
 /**
- * Plugin Name: WP CodeMirror Themes
- * Plugin URI:  https://github.com/tacocode/wp-codemirror-themes
- * Description: Add a custom CodeMirror theme
- * Version:     0.0.1
- * Author:      TacoCode
- * Author URI:  https://github.com/tacocode
- * License:     GPL2
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: wp-codemirror-themes
- * Domain Path: /languages
+ * Exit if not called via WordPress
  */
 defined('ABSPATH') or die();
 
+/**
+ * Class WPCodeMirrorThemes
+ */
 class WPCodeMirrorThemes
 {
     /**
@@ -63,7 +70,8 @@ class WPCodeMirrorThemes
     /**
      * Initialize all plugin sections, settings & fields
      */
-    public function initSettings() {
+    public function initSettings()
+    {
         register_setting(
             'codemirror_theme',
             'codemirror_theme_settings'
