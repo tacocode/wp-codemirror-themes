@@ -3,7 +3,7 @@
 Plugin Name: WP CodeMirror Themes
 Plugin URI:  https://github.com/tacocode/wp-codemirror-themes
 Description: Add a custom CodeMirror theme
-Version:     0.0.2
+Version:     0.0.3
 Author:      TacoCode
 Author URI:  https://github.com/tacocode
 License:     GPL2

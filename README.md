@@ -1,5 +1,5 @@
 # WP CodeMirror Themes 
-**Contributors:** tacocode  
+**Contributors:** TacoCode  
 **Donate link:** https://donate.unhcr.org  
 **Tags:** admin, codeeditor, codemirror  
 **Requires at least:** 4.9  
@@ -24,6 +24,9 @@ Found a bug? Please use the issue tracker at <https://github.com/tacocode/wp-cod
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Changelog 
+
+### 0.0.3
+* Fix capitalization
 
 ### 0.0.2
 * Initial version
