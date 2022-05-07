@@ -13,3 +13,8 @@
 <p class="description">
     <?php esc_html_e('Select the CodeMirror theme you want to use with the theme & plugin editor.', 'wp-codemirror-themes'); ?>
 </p>
+
+<div class="editor-preview">
+    <label for="editorTextarea" style="display:inline-block;margin:12px 0;">Preview:</label>
+    <textarea id="editorTextarea" rows="3"><?= file_get_contents(dirname(__DIR__, 1) . "/wp-codemirror-themes.php"); ?></textarea>
+</div>

@@ -1,9 +1,9 @@
 # WP CodeMirror Themes 
 **Contributors:** TacoCode  
-**Donate link:** https://donate.unhcr.org  
+**Donate link:** https://www.tacocode.com  
 **Tags:** admin, codeeditor, codemirror  
 **Requires at least:** 4.9  
-**Tested up to:** 5.0.3  
+**Tested up to:** 5.9.3  
 **Stable tag:** trunk  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
@@ -12,7 +12,8 @@ CodeMirror themes for the theme & plugin editor
 
 ## Description 
 
-CodeMirror Themes allows you to set the theme & plugin editor theme.
+CodeMirror Themes allows you to set a theme for the 'Plugin File Editor' and 'Theme File Editor'. A list and demo
+of the themes can be found at https://codemirror.net/demo/theme.html
 
 ### Issues / Bug reporting 
 
@@ -24,6 +25,9 @@ Found a bug? Please use the issue tracker at <https://github.com/tacocode/wp-cod
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Changelog 
+
+### 1.0.0
+* Add editor theme preview
 
 ### 0.0.3
 * Fix capitalization
